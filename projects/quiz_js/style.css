@@ -1,0 +1,29 @@
+body{
+    background-image:linear-gradient(135deg, rgb(156, 98, 77),rgb(50, 50, 181) 100%);
+    background-attachment:fixed;
+}
+
+.col-md-5{
+    margin-top:150px;
+    padding: 20px;
+}
+
+h1{
+    background-color:rgb(31, 31, 74);
+    color: #fff;
+}
+
+input,label{
+    margin:10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ul{
+    list-style-type: none;
+}
+.cnt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
