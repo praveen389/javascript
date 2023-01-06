@@ -702,3 +702,5 @@ let a=[{fname:"praveen",salary:90000},{fname:"naveen",salary:50000},{fname:"sake
 const z= a.sort((x,y)=>y.salary-x.salary);
 
 console.log(z)
+
+console.log("a")
